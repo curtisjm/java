@@ -1,0 +1,18 @@
+name: Tutorial # name of file
+version: 1.0 # < version of plugin
+author: Citrizz # author of plugin
+main: com.citrizz.tutorial.Main # where main class is, where onEnable and onDisable are
+api-version: 1.14 # version of Spigot API, may have to be 1.14
+# "depend: [Plugin1, Plugin2]" use if your plugin depends on another plugin
+commands:
+  heal2:
+    description: heals player to max health
+    usage: /<command>
+    aliases: [healme, fullhealth]
+  feed2:
+    description: feeds player to max food
+    usage: /<command>
+    aliases: [feedme, fullhunger]
+  farmtime:
+    description: spawns a specified farm animal
+    usage: /<command>

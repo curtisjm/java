@@ -1,0 +1,9 @@
+name: Tutorial2
+version: 1.0
+author: Citrizz
+main: com.citrizz.customitemsmcplugintutorial.Main
+api-version: 1.14
+commands:
+  givewand:
+    description: gives our custom item to player
+    usage: /<command>

@@ -1,0 +1,9 @@
+name: CitrizzPlugin
+version: 1.0
+author: Citrizz
+main: com.citrizz.myplugin.Main
+api-version: 1.14
+commands:
+  supersmacker:
+    description: don't worry about it
+    usage: /<command>

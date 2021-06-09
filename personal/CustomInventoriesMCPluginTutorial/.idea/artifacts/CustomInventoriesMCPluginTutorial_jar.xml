@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomInventoriesMCPluginTutorial:jar">
+    <output-path>$USER_HOME$/Desktop/MyMCServer/plugins</output-path>
+    <root id="archive" name="CustomInventoriesMCPluginTutorial.jar">
+      <element id="module-output" name="CustomInventoriesMCPluginTutorial" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../CompSci/APIs/spigot-api-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

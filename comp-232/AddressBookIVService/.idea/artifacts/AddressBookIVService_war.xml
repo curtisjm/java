@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AddressBookIVService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>AddressBookIVService</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="AddressBookIVService-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="AddressBookIVService:war exploded" />
+    </root>
+  </artifact>
+</component>

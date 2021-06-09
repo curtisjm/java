@@ -1,0 +1,9 @@
+name: Tutorial3
+version: 1.0
+author: Citrizz
+main: com.citrizz.custominventoriesmcplugintutorial.Main
+api-version: 1.14
+commands:
+  selectionscreen:
+    description: opens selection screen
+    usage: /<command>
